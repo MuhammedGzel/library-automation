@@ -1,2 +1,2 @@
 # library-automation
-It is a java swing desktop application that allows students to borrow books from a library.
+It is a library automation application using Java Swing and MySQL database.
