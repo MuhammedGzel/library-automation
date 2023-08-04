@@ -5,7 +5,7 @@ import java.sql.*;
 
 public class DbHelper {
     static String username="root";
-    static String password="14531453Mali.";
+    static String password="....";
     static String DbUrl="jdbc:mysql://localhost:3306/kutuphane";
     public  Connection getConnection() throws SQLException {
     return (Connection) DriverManager.getConnection(DbUrl,username,password);  
